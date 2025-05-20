@@ -75,9 +75,3 @@ This project analyzes a dataset of collegiate athletes to explore patterns and r
 
 ---
 
-## 🚀 Future Enhancements
-
-- Integrate predictive modeling (e.g., logistic regression, XGBoost) for injury prediction.
-- Explore time-series tracking or player-level injury progression.
-- Develop a real-time Digital Twin model for athlete monitoring and alerts.
-

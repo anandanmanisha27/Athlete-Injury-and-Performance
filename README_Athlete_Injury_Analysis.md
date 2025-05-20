@@ -1,4 +1,4 @@
-# Collegiate Athlete Injury Risk Analysis
+# Athlete Injury and performance Analysis
 
 This project analyzes a dataset of collegiate athletes to explore patterns and risk factors associated with sports injuries. It includes data visualization, correlation analysis, and statistical insights into the role of fatigue, recovery, and performance metrics.
 
